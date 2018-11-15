@@ -1,0 +1,9 @@
+{
+  "name": "genforce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nforce": "^1.10.2"
+  }
+}
